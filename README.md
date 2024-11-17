@@ -1,4 +1,4 @@
-# Fridgetracker API v1.0.0
+# Fridgetracker RESTful API v1.0.0
 Your personal fridge assistant
 
 - Save some steps! Ask your fridge what's inside, without having to go and check.
